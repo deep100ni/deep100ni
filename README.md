@@ -1,4 +1,4 @@
-<h1 align="center">👋🏼 Hello, I'm </br>Divy Raj Soni</h1>
+<h1 align="center">👋🏼 Hello,</br> I'm Divy Raj Soni</h1>
 <h3 align="center">💻 Aspiring Developer & Tech Enthusiast</h3>
 
 <p align="center">
