@@ -8,9 +8,11 @@
 </br>
 
 ## 🚀 About Me
-I'm a first-year engineering student passionate about technology and coding. My journey in tech has just begun, and I'm exploring various programming languages and technologies, including Python, C, HTML, CSS, JavaScript, and Kotlin. I love solving problems, learning new tools, and experimenting with code to create impactful solutions.
+I'm a first-year engineering student passionate about technology, coding, and entrepreneurship. I thrive on solving real-world problems and building innovative solutions. My journey in tech has led me to explore languages like Python, C, HTML, CSS, JavaScript, and Kotlin.
 
-I aim to build a strong foundation in software development and contribute to projects that make a difference.
+During my school life, I created a project called the **Vote App**, which was used for managing elections such as Head Boy and Head Girl selections. This experience sparked my interest in impactful projects and creative solutions.
+
+My long-term goal is to establish my own startup to contribute innovative ideas and meaningful solutions to the world.
 
 </br>
 
